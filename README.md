@@ -1,9 +1,12 @@
-[![Gitter](https://badges.gitter.im/jainaman224/Algo_Ds_Notes.svg)](https://gitter.im/jainaman224/Algo_Ds_Notes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![codecov](https://codecov.io/gh/jainaman224/Algo_Ds_Notes/branch/master/graph/badge.svg?token=r85XoiAyxx)](https://codecov.io/gh/jainaman224/Algo_Ds_Notes)
+[![Gitter](https://badges.gitter.im/Algo_Ds_Notes/Algo_Ds_Notes.svg)](https://gitter.im/Algo_Ds_Notes/Algo_Ds_Notes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+<a href='https://play.google.com/store/apps/details?id=com.Scibot.aniket.algopack&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="35"></a>
 
 
-# Welcome to Algorithm and Data Structure Notes :clipboard:
+## Welcome to Algorithm and Data Structure Notes :clipboard:
 
-Our open source community is focussed on understand concepts and whenever someone is trapped, they can see one way to code. So, we are making an repository having implementation in as many languages as we can.
+Our open source community is focussed on understanding the concepts and while doing so, whenever someone gets trapped, they can see one way to code in any language they want. So, we are developing a repository having implementation in as many languages as we can.
+
+> [Index](INDEX.md)
 
 ## Steps to follow :scroll:
 
@@ -132,3 +135,71 @@ We love to have `articles` and `codes` in different languages and `betterment` o
 Please discuss it with us first by creating new issue.
 
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
+
+## Code Maintainers  :sunglasses:
+
+**C**
+
+| [ayushin78](https://github.com/ayushin78) |
+| --- |
+
+**CoffeeScript**
+
+| [jainaman224](https://github.com/jainaman224) |
+| --- |
+
+**Cplusplus**
+
+| [KavyaSharma](https://github.com/KavyaSharma) | [sidgorey](https://github.com/sidgorey) | [uday1201](https://github.com/uday1201) |
+| --- | --- | --- |
+
+**CSharp**
+
+| [AnkitaKhurana](https://github.com/AnkitaKhurana) | [nihalC07](https://github.com/nihalC07) |
+| --- | --- |
+
+**Java**
+
+| [adishjain](https://github.com/adishjain) | [ayushin78](https://github.com/ayushin78) | [nj4710](https://github.com/nj4710) |
+| --- | --- | --- |
+
+**JavaScript**
+
+| [prakharcode](https://github.com/prakharcode) |
+| --- |
+
+**Markdown**
+
+| [swatinirwal](https://github.com/swatinirwal) |
+| --- |
+
+**Php**
+
+| [MehakJain96](https://github.com/MehakJain96) |
+| --- |
+
+**Python**
+
+| [jainaman224](https://github.com/jainaman224) |
+| --- |
+
+**Ruby**
+
+| [tnarkiv](https://github.com/tnarkiv) |
+| --- |
+
+## References :clipboard: :scroll:
+
+- Books :book: :books:
+    - Data Structures with C by Schaum Series
+    - Data Structures: A Pseudocode Approach with C by Richard F. Gilberg
+    - Fundamentals Of Data Structures in C by Horowitz
+    - Introduction To Algorithms By Thomas H. Cormen
+    - Java: The Complete Reference By Herbert Schildt
+    - Object Oriented Programming with C++ by E Balaguruswamy
+- Websites :computer:
+    - [GeeksforGeeks](http://www.geeksforgeeks.org)
+    - [hackerearth](https://www.hackerearth.com/notes)
+    - [topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials)
+    - [tutorialspoint](http://www.tutorialspoint.com)
+    - [Wikipedia](https://en.wikipedia.org)
